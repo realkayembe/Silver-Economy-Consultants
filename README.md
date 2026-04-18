@@ -13,8 +13,8 @@ Interactive Streamlit app for identifying U.S. counties that balance:
 ## Local Setup Instructions
 
 ```bash
-git clone [your repository URL]
-cd [repository folder]
+git clone https://github.com/realkayembe/Silver-Economy-Consultants.git
+cd Silver-Economy-Consultants
 uv sync
 uv run streamlit run app.py
 
