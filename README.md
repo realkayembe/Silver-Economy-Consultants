@@ -8,7 +8,7 @@ Interactive Streamlit app for identifying U.S. counties that balance:
 
 ## App Deployment URL
 
-[Link to your deployed app]
+https://silvereconomyconsultants.streamlit.app
 
 ## Local Setup Instructions
 
